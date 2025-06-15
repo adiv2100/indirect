@@ -2,9 +2,9 @@
   "name": "my-redirect",
   "version": "1.0.0",
   "scripts": {
-    "start": "serve -s"  // ה-`-s` חשוב כדי לשרת את הקובץ
+    "start": "serve -s"  // ← הוספתי את המרכא הסוגרת
   },
   "dependencies": {
-    "serve": "^14.0.0"   // חבילה שתאפשר לך להריץ את האתר סטטי
+    "serve": "^14.0.0"
   }
 }
