@@ -1,0 +1,10 @@
+{
+  "name": "my-redirect",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "serve -s"  // ה-`-s` חשוב כדי לשרת את הקובץ
+  },
+  "dependencies": {
+    "serve": "^14.0.0"   // חבילה שתאפשר לך להריץ את האתר סטטי
+  }
+}
