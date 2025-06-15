@@ -2,7 +2,7 @@
   "name": "my-redirect",
   "version": "1.0.0",
   "scripts": {
-    "start": "serve -s"  // ← הוספתי את המרכא הסוגרת
+    "start": "serve -s ."
   },
   "dependencies": {
     "serve": "^14.0.0"
