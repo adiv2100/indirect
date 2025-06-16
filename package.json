@@ -1,5 +1,5 @@
 {
-  "name": "my-redirect",
+  "name": "redirect-meta",
   "version": "1.0.0",
   "scripts": {
     "start": "serve -s ."
